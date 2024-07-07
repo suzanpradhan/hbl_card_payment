@@ -29,7 +29,7 @@ pip install hbl-card-payment
 Importing the Module
 
 ```python
-from simple_hbl_card_payment import HBLCardPayment
+from hbl_card_payment.card_payment import HBLCardPayment
 ```
 
 ### Initialization
